@@ -104,7 +104,7 @@ void loop() {
 
 ## 🖼️ Esquema do Circuito
 
-![Esquema do Circuito](img.jpeg)
+![Esquema do Circuito](MUS-main/assets/img.jpeg)
 
 ---
 
